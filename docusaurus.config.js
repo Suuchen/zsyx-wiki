@@ -69,7 +69,7 @@ const config = {
         },
         items: [
           {
-            href: "#贡献",
+            href: "/",
             label: "贡献",
             position: "right",
           },
