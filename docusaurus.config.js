@@ -47,7 +47,7 @@ const config = {
           // 请将此更改为你的仓库。
           // 移除此项以移除 "编辑此页面" 链接。
           editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+            "/",
         },
         theme: {
           customCss: "./src/css/custom.css",
@@ -59,7 +59,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // 替换为你的项目社交卡
+
       image: "img/docusaurus-social-card.jpg",
       navbar: {
         title: "诸神愚戏 WIKI",
