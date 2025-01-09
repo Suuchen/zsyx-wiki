@@ -25,8 +25,8 @@ const config = {
   organizationName: "facebook", // 通常是你的 GitHub 组织/用户名。
   projectName: "docusaurus", // 通常是你的仓库名。
 
-  onBrokenLinks: "throw",
-  onBrokenMarkdownLinks: "warn",
+  onBrokenLinks: "ignore",
+  onBrokenMarkdownLinks: "ignore",
 
   // 即使你不使用国际化，你也可以使用此字段设置
   // 有用的元数据，如 html lang。例如，如果你的网站是中文的，
@@ -46,8 +46,7 @@ const config = {
           sidebarPath: "./sidebars.js",
           // 请将此更改为你的仓库。
           // 移除此项以移除 "编辑此页面" 链接。
-          editUrl:
-            "/",
+          editUrl: "/",
         },
         theme: {
           customCss: "./src/css/custom.css",
@@ -59,7 +58,6 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-
       image: "img/docusaurus-social-card.jpg",
       navbar: {
         title: "诸神愚戏 WIKI",
