@@ -1,10 +1,4 @@
 
-<p align="center">
-    <a href="#" target="_blank" rel="noopener noreferrer">
-        <img width="150" src={require('../static/img/logo.png').default} alt="web logo" />
-    </a>
-</p>
-
 <p align="center"><h2>诸神愚戏 WIKI</h2></p>
 <p align="center"> <h3>基于《诸神愚戏》小说搭建的WIKI网站</h3></p>
 
@@ -12,11 +6,9 @@
 ------------------------------
 
 ## 前言
-:::info
 
 本文档所有**原创内容**遵从 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans) 协议 
 
-:::
 
 本WIKI内容 基于 番茄小说平台 [@一月九十秋](#) 连载的《诸神愚戏》小说
 
