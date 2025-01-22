@@ -19,7 +19,7 @@ const config = {
 
   // 设置你的站点部署的 /<baseUrl>/ 路径
   // 对于 GitHub 页面部署，通常是 '/<projectName>/'
-  baseUrl: "/zsyx-wiki/",
+  baseUrl: "/",
 
   // GitHub 页面部署配置。
   // 如果你没有使用 GitHub 页面，则不需要这些。
