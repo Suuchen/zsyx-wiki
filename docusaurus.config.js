@@ -16,6 +16,7 @@ const config = {
 
   // 在这里设置你站点的生产 URL
   url: "https://your-docusaurus-site.example.com",
+
   // 设置你的站点部署的 /<baseUrl>/ 路径
   // 对于 GitHub 页面部署，通常是 '/<projectName>/'
   baseUrl: "/zsyx-wiki/",
@@ -46,7 +47,7 @@ const config = {
           sidebarPath: "./sidebars.js",
           // 请将此更改为你的仓库。
           // 移除此项以移除 "编辑此页面" 链接。
-          editUrl: "/",
+          editUrl: "https://github.com/Mueoink/zsyx-wiki",
         },
         theme: {
           customCss: "./src/css/custom.css",
