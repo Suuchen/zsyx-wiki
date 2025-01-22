@@ -47,7 +47,7 @@ const config = {
           sidebarPath: "./sidebars.js",
           // 请将此更改为你的仓库。
           // 移除此项以移除 "编辑此页面" 链接。
-          editUrl: "https://github.com/Mueoink/zsyx-wiki",
+          editUrl: "https://github.com/Mueoink/zsyx-wiki/tree/main/",
         },
         theme: {
           customCss: "./src/css/custom.css",
