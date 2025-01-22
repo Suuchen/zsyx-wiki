@@ -23,7 +23,7 @@ const config = {
   // GitHub 页面部署配置。
   // 如果你没有使用 GitHub 页面，则不需要这些。
   organizationName: "Mueoink", // 通常是你的 GitHub 组织/用户名。
-  projectName: "zsys-wiki", // 通常是你的仓库名。
+  projectName: "zsyx-wiki", // 通常是你的仓库名。
 
   onBrokenLinks: "ignore",
   onBrokenMarkdownLinks: "ignore",
