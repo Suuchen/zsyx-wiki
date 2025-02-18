@@ -7,7 +7,7 @@ export default defineConfig({
   description: "诸神愚戏 WIKI",
   lang: "zh",
   themeConfig: {
-    logo: "../public/logo.png",
+    logo: "/logo.png",
     search: { provider: "local" },
     nav: [
       { text: "主页", link: "/" },
