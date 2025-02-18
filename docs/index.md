@@ -7,7 +7,7 @@ hero:
   text: "基于《诸神愚戏》小说搭建的WIKI网站"
   tagline: 基于《诸神愚戏》小说搭建的WIKI网站
   image:
-    src: ./static/logo.png
+    src: /logo.png
     alt: VitePress
   actions:
     - theme: brand
