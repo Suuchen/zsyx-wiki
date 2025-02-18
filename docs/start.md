@@ -1,7 +1,7 @@
 
 <p align="center">
     <a href="/">
-        <img width="150" src="./static/logo.png" alt="web logo" />
+        <img width="150" src="./public/logo.png" alt="web logo" />
     </a>
 </p>
 
