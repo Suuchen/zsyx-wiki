@@ -28,7 +28,7 @@ export default defineConfig({
         text: "世界观",
         collapsed: false,
         items: [
-          { text: "世界观", link: "/setting/word_setting.md" },
+          { text: "世界观", link: "/setting/world_setting.md" },
           {
             text: "纪元",
             collapsed: true,
