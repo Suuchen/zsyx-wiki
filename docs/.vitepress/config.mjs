@@ -3,11 +3,11 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "诸神愚戏 WIKI",
-  head: [["link", { rel: "icon", href: "../static/logo.png" }]],
+  head: [["link", { rel: "icon", href: "/logo.png" }]],
   description: "诸神愚戏 WIKI",
   lang: "zh",
   themeConfig: {
-    logo: "../static/logo.png",
+    logo: "/logo.png",
     search: { provider: "local" },
     nav: [
       { text: "主页", link: "/" },
