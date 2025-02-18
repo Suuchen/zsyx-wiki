@@ -82,7 +82,7 @@ export default defineConfig({
       { icon: "github", link: "https://github.com/Mueoink/zsyx-wiki/" },
     ],
     footer: {
-      message: "Released under the MIT License.",
+      message: "Released under the CC BY-NC-ND 4.0.",
       copyright: "Copyright © 2024-present Mueo",
     },
   },
