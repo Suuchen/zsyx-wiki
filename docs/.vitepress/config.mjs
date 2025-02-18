@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "诸神愚戏 WIKI",
-  head: [["link", { rel: "icon", href: "/logo.png" }]],
+  head: [["link", { rel: "icon", href: "../public/logo.png" }]],
   description: "诸神愚戏 WIKI",
   lang: "zh",
   themeConfig: {
@@ -79,7 +79,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: "github", link: "https://github.com/vuejs/vitepress" },
+      { icon: "github", link: "https://github.com/Mueoink/zsyx-wiki/" },
     ],
     footer: {
       message: "Released under the MIT License.",
