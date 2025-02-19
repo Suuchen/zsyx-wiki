@@ -12,9 +12,9 @@ hero:
   actions:
     - theme: brand
       text: 快速开始
-      link: /start
+      link: /wiki/start
     - theme: alt
       text: 编写指南
-      link: /compile
+      link: /contribution/compile
 
 

@@ -1,7 +1,7 @@
 
 <p align="center">
     <a href="/">
-        <img width="150" src="./public/logo.png" alt="web logo" />
+        <img width="150" src="../public/logo.png" alt="web logo" />
     </a>
 </p>
 
@@ -43,12 +43,12 @@
 
 如果你也愿意为本WIKI的完善贡献力量，我们非常欢迎你的加入！
 
-**联系邮箱：mueo@mueoo.com**
+**联系邮箱：[mueo@mueoo.com](mailto:mueo@mueoo.com)**
 
 
-## 贡献
+## 主要贡献
 
-排名不分先后，感谢各位付出
+排名不分先后，感谢各位付出,完整请见 [贡献团队](../contribution/team.md)
 
 <script setup>
 import { VPTeamMembers } from 'vitepress/theme'
