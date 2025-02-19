@@ -6,6 +6,7 @@ export default defineConfig({
   head: [["link", { rel: "icon", href: "../public/logo.png" }]],
   description: "诸神愚戏 WIKI",
   lang: "zh",
+  lastUpdated: true,
   themeConfig: {
     logo: "/logo.png",
     search: { provider: "local" },
@@ -13,6 +14,10 @@ export default defineConfig({
       { text: "主页", link: "/" },
       { text: "WIKI", link: "/start" },
     ],
+    editLink: {
+      pattern: 'https://github.com/Mueoink/zsyx-wiki/tree/main/docs/:path',
+      text: '编辑此页'
+    },
 
     sidebar: [
       {
