@@ -226,6 +226,15 @@ export default defineConfig({
     socialLinks: [
       { icon: "github", link: "https://github.com/Mueoink/zsyx-wiki/" },
     ],
+      markdown: {
+    container: {
+      tipLabel: '提示',
+      warningLabel: '警告',
+      dangerLabel: '危险',
+      infoLabel: '信息',
+      detailsLabel: '详细信息'
+    }
+  },
     footer: {
       message: "Released under the CC BY-NC-ND 4.0.",
       copyright: "Copyright © 2024-present Mueo",
