@@ -51,9 +51,7 @@ export default defineConfig({
             {
               text: "种族划分",
               collapsed: true,
-              items: [
-                { text: "种族概览", link: "/wiki/setting/race/main.md" },
-              ],
+              items: [{ text: "种族概览", link: "/wiki/setting/race/main.md" }],
             },
           ],
         },
@@ -78,15 +76,47 @@ export default defineConfig({
               items: [
                 {
                   text: "传火者",
-                  link: "/wiki/organization/player/flamebearer.md",
+                  link: "/wiki/organization/player/flame.md",
                 },
                 {
-                  text: "丑角、命定之人",
-                  link: "/wiki/organization/player/clown.md",
+                  text: "理质协会",
+                  link: "/wiki/organization/player/rational-principles",
+                },
+                {
+                  text: "秩序联盟",
+                  link: "/wiki/organization/player/alliance-for-order",
+                },
+                {
+                  text: "自然教派",
+                  link: "/wiki/organization/player/nature-sect",
+                },
+                {
+                  text: "亡灵超度会",
+                  link: "/wiki/organization/player/dead-souls",
                 },
                 {
                   text: "历史学派",
                   link: "/wiki/organization/player/historical",
+                },
+                {
+                  text: "崇神会",
+                  link: "/wiki/organization/player/gods-worship",
+                },
+                {
+                  text: "棺中人",
+                  link: "/wiki/organization/player/coffin",
+                },
+                {
+                  text: "庸人会",
+                  link: "/wiki/organization/player/average-joe-club",
+                },
+                {
+                  text: "命定之人",
+                  link: "/wiki/organization/player/destined-person",
+                },
+                {
+                  text: "丑角",
+                  link: "/wiki/organization/player/clown.md",
                 },
               ],
             },
@@ -105,6 +135,30 @@ export default defineConfig({
                 {
                   text: "余晖教廷",
                   link: "/wiki/organization/npc/dusk-holy-see.md",
+                },
+                {
+                  text: "生命教会",
+                  link: "/wiki/organization/npc/life-church",
+                },
+                {
+                  text: "自然联盟",
+                  link: "/wiki/organization/npc/natural-union",
+                },
+                {
+                  text: "代理之手",
+                  link: "/wiki/organization/npc/agent-hand",
+                },
+                {
+                  text: "极欲兄弟会",
+                  link: "/wiki/organization/npc/greed-brotherhood",
+                },
+                {
+                  text: "战争之国",
+                  link: "/wiki/organization/npc/war-country",
+                },
+                {
+                  text: "窃子兄弟会",
+                  link: "/wiki/organization/npc/bastard-brotherhood",
                 },
               ],
             },
@@ -159,7 +213,7 @@ export default defineConfig({
           items: [
             { text: "如何贡献", link: "/contribution/contribute" },
             { text: "编写要求", link: "/contribution/compile" },
-            { text: "团队", link: "/contribution/team" },
+            { text: "贡献团队", link: "/contribution/team" },
           ],
         },
       ],
