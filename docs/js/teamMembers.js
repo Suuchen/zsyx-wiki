@@ -9,4 +9,9 @@ export const teamMembers = [
     name: "辽神",
     title: "内容整理",
   },
+{
+    avatar: "https://q1.qlogo.cn/g?b=qq&nk=3835227971&s=640",
+    name: "Mars",
+    title: "目录重构",
+  },
 ];
