@@ -58,10 +58,10 @@ const members = [
     name: 'Mueo',
     title: '创建者',
   },
-    {avatar: 'https://q1.qlogo.cn/g?b=qq&nk=1660729567&s=640',
-    name:'辽神',
-    title:'内容整理'
-  }
+    {avatar: 'https://q1.qlogo.cn/g?b=qq&nk=3835227971&s=640',
+    name:'Mars',
+    title:'项目负责'
+  },
 ]
 </script>
 
